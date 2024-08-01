@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @singhtechie24
+- 👋 Hi, I’m @BalbirSingh
 - 👀 I’m interested in tech, specifically web development.
 - 🌱 I’m currently learning Web Development and expanding my skills in JavaScript, React, and related technologies.
 - 💞️ I’m looking to collaborate on web development projects, especially those that allow me to learn and grow as a developer.
