@@ -6,6 +6,12 @@ I recently completed an MSc in Web and Mobile Development Technologies at Northu
 
 I enjoy identifying practical problems, defining useful product features, and turning ideas into working software through testing, feedback, and iteration.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/balbir-singh-cse24/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/singhtechie24)
+[![Hustle](https://img.shields.io/badge/Hustle-Live%20App-success)](https://shiftmoney-app.vercel.app/)
+[![HealthAssist](https://img.shields.io/badge/HealthAssist-Live%20App-success)](https://healthassist-mvp.vercel.app/)
+[![EchoFlow](https://img.shields.io/badge/EchoFlow-Live%20Prototype-orange)](https://echo-f-low.vercel.app/)
+
 ---
 
 ## 👨‍💻 About Me
@@ -22,18 +28,23 @@ I enjoy identifying practical problems, defining useful product features, and tu
 ## 🧰 Technical Skills
 
 ### Core Web Development
+
 `HTML5` `CSS3` `JavaScript` `Responsive Web Design`
 
 ### Project Experience
+
 `React` `Next.js` `TypeScript` `Tailwind CSS` `Firebase` `Cloud Firestore`
 
 ### APIs and Integrations
+
 `REST APIs` `OpenAI API` `JSON` `Stripe API`
 
 ### Development Tools
+
 `Git` `GitHub` `Visual Studio Code` `Vercel`
 
 ### AI-Assisted Development
+
 `OpenAI Codex` `Claude` `Google Antigravity`
 
 I use AI tools to support requirements breakdown, prototyping, debugging, and technical exploration. I test and refine generated output rather than treating it as automatically correct.
