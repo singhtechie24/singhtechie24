@@ -12,6 +12,8 @@ I enjoy identifying practical problems, defining useful product features, and tu
 [![HealthAssist](https://img.shields.io/badge/HealthAssist-Live%20App-success)](https://healthassist-mvp.vercel.app/)
 [![EchoFlow](https://img.shields.io/badge/EchoFlow-Live%20Prototype-orange)](https://echo-f-low.vercel.app/)
 
+![Profile views](https://komarev.com/ghpvc/?username=singhtechie24&label=Profile%20views&style=flat)
+
 ---
 
 ## 👨‍💻 About Me
