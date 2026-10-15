@@ -1,121 +1,101 @@
-# Hi, I'm Balbir 👋
+# Hi, I'm Balbir Singh 👋
 
-**Graduate software engineer in Luton, UK.** I build useful software with a little personality.
+### Graduate Software Engineer · Luton, UK
 
-[**balbir.dev**](https://balbir.dev) · [LinkedIn](https://www.linkedin.com/in/balbir-singh-cse24/) · [singh.techie24@gmail.com](mailto:singh.techie24@gmail.com)
+I turn everyday problems into real, working products, and I care as much about how they feel as how they work.
 
-> I started on the frontend because I like pretty things.
-> I learned the backend because a pretty button is useless if it doesn't save your data.
-
-&nbsp;
-
-## A bit about me
-
-I spent four years in India writing algorithms and making sure my logic was solid, then packed exactly two bags and moved to the UK for my **MSc in Web and Mobile Development Technologies** at Northumbria University London.
-
-These days I build products end to end: the idea, the interface, the database and the deployment. Most of them started with something annoying in my own life, like two jobs with two rotas and no easy way to tell if I could afford rent.
-
-I'm looking for **graduate and junior software engineering roles in the UK**.
-
-&nbsp;
-
-## Things I've shipped
-
-Every project has a full case study on [balbir.dev/work](https://balbir.dev/work): the problem, the decisions, what broke, and what I learned.
-
-&nbsp;
-
-### 🟢 Hustle · *public early access*
-
-**A live web app for UK workers with more than one job.**
-I was checking Microsoft Teams for one rota and a terrible web portal for the other, doing mental gymnastics to work out if I had Friday off. Hustle pulls both rotas into one calendar and estimates take-home pay for each payday, using each job's pay rules plus UK PAYE and National Insurance. Rotas can be imported from a screenshot with AI.
-
-- Launched in October 2026: public sign-up, real accounts, free during early access
-- 3,500+ automated tests across unit, render, security-rules and browser checks
-- AI rota imports are checked before anything is saved
-
-`Next.js` `TypeScript` `Firebase` `OpenAI` `Google Cloud KMS` `Vitest` `Playwright`
-
-[Visit hustlepay.co.uk](https://www.hustlepay.co.uk) · [Read the case study](https://balbir.dev/work/hustle) · source is private
-
-&nbsp;
-
-### 🟣 EchoFlow · *public beta*
-
-**A local AI voice-dictation app for Windows.**
-Hold a shortcut, speak, release. Your speech is transcribed on your own PC, optionally polished by a local AI model, and typed wherever you were working, with no cloud service involved.
-
-- Installer cut from 297.9 MB to 11.2 MB
-- 5 local speech models and 4 local AI models to choose from
-- 308 automated Playwright tests on the product website, with tested auto-updates
-
-`Tauri v2` `Rust` `React` `TypeScript` `whisper.cpp` `llama.cpp` `Vulkan`
-
-[Visit echoflow.uk](https://echoflow.uk) · [Read the case study](https://balbir.dev/work/echoflow) · source is private
-
-&nbsp;
-
-### 🔵 HealthAssist · *MSc dissertation prototype*
-
-**An AI health and wellness companion.**
-Everyday health tools rarely talk to each other, so HealthAssist puts contextual AI chat, live voice, mood and medication tracking, nutrition information and an emergency simulation in one place. After building it, I audited it so its memory, limits and safety wording match what the interface claims.
-
-- 146 tests across three suites, all passing in the final run
-- AI rules and usage limits moved behind a Cloudflare Worker, out of the browser
-- Live voice sessions of up to 3 minutes
-
-`React 19` `TypeScript` `Vite` `Tailwind CSS` `Cloudflare Workers` `Firebase` `OpenAI Realtime`
-
-[Try the live demo](https://healthassist-mvp.vercel.app/) · [Read the case study](https://balbir.dev/work/healthassist) · source is private
-
-> An educational, non-clinical prototype. It doesn't diagnose anything or replace professional healthcare.
-
-&nbsp;
-
-### ⚪ Doctor Appointment · *portfolio project*
-
-**Find a doctor, pick a time, manage the booking.**
-A familiar booking flow that still has to stay coherent across sign-in, availability, ownership and cancellation. I later revisited my own early code and hardened it.
-
-- Appointments now go through authenticated server routes that check who owns them
-- No API tokens left in the browser after the hardening pass
-- Deployed with synthetic data, so anyone can try it safely
-
-`Next.js` `React` `Kinde` `Strapi` `PostgreSQL` `Tailwind CSS`
-
-[Try the live demo](https://doctor-appointment-booking-web-nextjs-two.vercel.app/) · [Read the case study](https://balbir.dev/work/doctor-appointment) · [View the code](https://github.com/singhtechie24/Doctor-Appointment-Booking-Web-Nextjs)
-
-&nbsp;
-
-## How I work
-
-I build with **Claude, Codex and Antigravity**, and I use them a lot. They write code fast; my job is making sure it's the right code.
-
-I decide what gets built, notice when the output is wrong, test it until it breaks, and debug it until I understand why. Every engineering story on my site started with something breaking and ended with me understanding why, because if I can't explain a piece of my own project, it isn't finished.
-
-&nbsp;
-
-## Toolkit
-
-| | |
-|---|---|
-| **Frontend** | `TypeScript` `JavaScript` `React` `Next.js` `Tailwind CSS` |
-| **Backend and data** | `Node.js` `Firebase` `PostgreSQL` `Strapi` `Cloudflare Workers` |
-| **Desktop** | `Rust` `Tauri` |
-| **Motion and design** | `GSAP` `Framer Motion` `Figma` |
-| **Testing** | `Vitest` `Playwright` |
-| **AI** | `OpenAI APIs` `whisper.cpp` `llama.cpp` |
-
-&nbsp;
-
-## Off the keyboard
-
-🎸 Teaching myself guitar, because I thought it would make me look cool. It's ridiculously hard (sincere apologies to my neighbours).
-🏋️ A highly inconsistent, love-hate relationship with the gym.
-🐛 Ask me about the CSS bugs at 2am.
-
-&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-balbir.dev-6d5ef5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://balbir.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balbir-singh-cse24/)
+[![Email](https://img.shields.io/badge/Email-Say_hi-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singh.techie24@gmail.com)
 
 ---
 
-**If your team needs someone who understands database transactions but will also lose sleep over an unaligned pixel, [let's talk](https://balbir.dev/contact).**
+## 👨‍💻 About me
+
+- 🎓 MSc Web and Mobile Development Technologies, Northumbria University London
+- 🛠️ I build end to end: idea, interface, database, deployment
+- 🧪 I test until things break, then fix them until I understand why
+- 🤖 AI-assisted, human-checked: I use Claude, Codex and Antigravity, and I review everything they write
+- 🎯 Open to **Graduate Software Engineer**, **Junior Developer** and **Frontend Developer** roles in the UK
+
+---
+
+## 🧰 Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=7" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,postgres,cloudflare,rust,tauri,vitest&perline=7" alt="Node.js, Firebase, PostgreSQL, Cloudflare, Rust, Tauri, Vitest" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma&perline=7" alt="Git, GitHub, Vercel, VS Code, Figma" />
+</p>
+
+Also: `Playwright` · `OpenAI API` · `GSAP` · `Framer Motion`
+
+---
+
+## 🚀 Featured projects
+
+### ⏱️ Hustle — one calendar and pay planner for people with two jobs
+Built after juggling two rotas, two payrolls and no idea whether I had Friday off.
+
+- Both rotas in one calendar
+- Take-home pay estimate for every payday (PAYE and NI)
+- Import a rota from a screenshot with AI
+- 3,500+ automated tests
+
+`Next.js` `TypeScript` `Firebase` `OpenAI`
+
+**[Live app](https://www.hustlepay.co.uk)** · [Case study](https://balbir.dev/work/hustle) · ![Early access](https://img.shields.io/badge/public-early_access-2ea44f?style=flat-square)
+
+### 🎙️ EchoFlow — voice typing for Windows that runs on your PC
+Hold a key, speak, release, and your words appear wherever you're typing.
+
+- Speech-to-text runs locally, no cloud needed
+- Optional local AI clean-up of what you said
+- Installer cut from 297.9 MB to 11.2 MB
+- Auto-updates and a public product site
+
+`Tauri` `Rust` `React` `TypeScript`
+
+**[Website](https://echoflow.uk)** · [Case study](https://balbir.dev/work/echoflow) · ![Public beta](https://img.shields.io/badge/public-beta-6d5ef5?style=flat-square)
+
+### 🩺 HealthAssist — AI wellness companion (MSc dissertation)
+Chat, voice and wellness tracking that finally share context.
+
+- Contextual AI chat and live voice
+- Mood, medication and nutrition tracking
+- AI rules and limits enforced on the server
+- 146 tests across three suites
+
+`React` `TypeScript` `Firebase` `Cloudflare Workers`
+
+**[Live demo](https://healthassist-mvp.vercel.app/)** · [Case study](https://balbir.dev/work/healthassist) · ![Prototype](https://img.shields.io/badge/MSc-prototype-0A66C2?style=flat-square)
+
+<sub>Educational and non-clinical: it doesn't diagnose or replace professional healthcare.</sub>
+
+### 📅 Doctor Appointment — find a doctor, book a slot, manage it
+A full-stack booking app I later revisited and hardened.
+
+- Sign-in, availability and booking flow
+- Bookings checked on the server, so you only see your own
+- No API secrets left in the browser
+
+`Next.js` `Strapi` `PostgreSQL` `Kinde`
+
+**[Live demo](https://doctor-appointment-booking-web-nextjs-two.vercel.app/)** · [Case study](https://balbir.dev/work/doctor-appointment) · [Code](https://github.com/singhtechie24/Doctor-Appointment-Booking-Web-Nextjs)
+
+---
+
+## 🎸 When I'm not coding
+
+Learning guitar (sorry, neighbours) · losing a love-hate battle with the gym · fixing CSS bugs at 2am
+
+---
+
+<p align="center">
+  <b>Looking for a developer who cares about the database <i>and</i> the pixels?</b><br/>
+  <a href="https://balbir.dev">balbir.dev</a> · <a href="https://www.linkedin.com/in/balbir-singh-cse24/">LinkedIn</a> · <a href="mailto:singh.techie24@gmail.com">singh.techie24@gmail.com</a>
+</p>
