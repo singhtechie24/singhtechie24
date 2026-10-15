@@ -1,139 +1,70 @@
 # Hi, I'm Balbir Singh 👋
 
-### Graduate Software Engineer based in Luton, United Kingdom
+### Graduate Software Engineer & Creative Developer · Luton, UK
 
-I recently completed an MSc in Web and Mobile Development Technologies at Northumbria University London.
+I build useful software with a little personality: real products that solve problems I've lived through, from juggling two jobs' rotas to making voice typing feel native on Windows.
 
-I enjoy identifying practical problems, defining useful product features, and turning ideas into working software through testing, feedback, and iteration.
+**🌐 Portfolio and case studies: [balbir.dev](https://balbir.dev)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/balbir-singh-cse24/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/singhtechie24)
-[![Hustle](https://img.shields.io/badge/Hustle-Live%20App-success)](https://shiftmoney-app.vercel.app/)
-[![HealthAssist](https://img.shields.io/badge/HealthAssist-Live%20App-success)](https://healthassist-mvp.vercel.app/)
-[![EchoFlow](https://img.shields.io/badge/EchoFlow-Live%20Prototype-orange)](https://echo-f-low.vercel.app/)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-balbir.dev-6d5ef5?style=flat)](https://balbir.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=flat)](https://www.linkedin.com/in/balbir-singh-cse24/)
+[![Email](https://img.shields.io/badge/Email-singh.techie24%40gmail.com-111?logo=gmail&style=flat)](mailto:singh.techie24@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About me
 
-- 🎓 MSc Web and Mobile Development Technologies graduate
-- 💼 Currently working in customer-facing operations while building my software career
-- 🛠️ Building products around shift work, health support, and AI-assisted workflows
-- 🤖 Exploring how AI tools can support prototyping, debugging, and product development
-- 📚 Strengthening my JavaScript, React, Git, APIs, and software-engineering fundamentals
-- 🎯 Seeking Graduate Software Engineer, Junior Developer, and Frontend Developer opportunities in the UK
-
----
-
-## 🧰 Technical Skills
-
-### Core Web Development
-
-`HTML5` `CSS3` `JavaScript` `Responsive Web Design`
-
-### Project Experience
-
-`React` `Next.js` `TypeScript` `Tailwind CSS` `Firebase` `Cloud Firestore`
-
-### APIs and Integrations
-
-`REST APIs` `OpenAI API` `JSON` `Stripe API`
-
-### Development Tools
-
-`Git` `GitHub` `Visual Studio Code` `Vercel`
-
-### AI-Assisted Development
-
-`OpenAI Codex` `Claude` `Google Antigravity`
-
-I use AI tools to support requirements breakdown, prototyping, debugging, and technical exploration. I test and refine generated output rather than treating it as automatically correct.
+- 🎓 MSc Web and Mobile Development Technologies, Northumbria University London
+- 🛠️ I build end to end: product idea, interface, database and deployment
+- 🤖 I build with Claude, Codex and Antigravity, and I use them a lot. They write code fast; my job is making sure it's the right code. I decide what gets built, test it until it breaks, and debug it until I understand why.
+- 💼 Currently in customer-facing operations while building my software career
+- 🎯 Open to **Graduate Software Engineer**, **Junior Developer** and **Frontend Developer** roles in the UK
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured projects
 
-### Hustle — Shift, Earnings and Personal Planning Platform
+Each project has a full case study on [balbir.dev/work](https://balbir.dev/work): the problem, the decisions, what broke and what I learned.
 
-Created after personally experiencing the difficulty of managing rotating shifts, two jobs, expected earnings, deductions, and personal planning.
+### [Hustle](https://balbir.dev/work/hustle) · Public early access
+A live web app for UK workers with more than one job. I built it while juggling two jobs: one rota in Microsoft Teams, another in a terrible web portal, and no easy way to see if I had Friday off or could afford rent.
 
-- Shift and rota management
-- Earnings and holiday-pay calculations
-- Multi-job and night-shift tracking
-- Personal planning workflows
-- Iterative testing using real shift-working scenarios
+`Next.js` `TypeScript` `Firebase` `OpenAI` `Google Cloud KMS` `Vitest` `Playwright`
+**[Visit hustlepay.co.uk](https://www.hustlepay.co.uk)** · [Case study](https://balbir.dev/work/hustle) · Source is private
 
-**Status:** In active development  
-**Live application:** [Open Hustle](https://shiftmoney-app.vercel.app/)
+### [EchoFlow](https://balbir.dev/work/echoflow) · Public beta
+A local AI voice-dictation app for Windows.
 
----
+`Tauri v2` `Rust` `React` `TypeScript` `whisper.cpp` `llama.cpp` `Vulkan`
+**[Visit echoflow.uk](https://echoflow.uk)** · [Case study](https://balbir.dev/work/echoflow) · Source is private
 
-### HealthAssist — AI-Powered Non-Clinical Health Companion
+### [HealthAssist](https://balbir.dev/work/healthassist) · Deployed MSc dissertation prototype
+An AI health and wellness companion exploring contextual conversations, live voice and personal wellness tracking.
 
-My MSc dissertation project exploring how several health-support tools could be brought together in one accessible platform.
+`React 19` `TypeScript` `Vite` `Tailwind CSS` `Cloudflare Workers` `Firebase` `OpenAI Realtime`
+**[Open the live demo](https://healthassist-mvp.vercel.app/)** · [Case study](https://balbir.dev/work/healthassist) · Source is private
 
-- AI-supported, non-diagnostic symptom guidance
-- Mood logging and visual tracking
-- Medication reminders
-- Health education content
-- Simulated emergency-preparation experience
-- Firebase Authentication and user-specific data
+> An educational, non-clinical prototype: it does not provide medical diagnosis or replace professional healthcare.
 
-**Technologies:** React, TypeScript, Firebase, OpenAI API  
-**Live application:** [Open HealthAssist](https://healthassist-mvp.vercel.app/)
+### [Doctor Appointment](https://balbir.dev/work/doctor-appointment) · Deployed portfolio project
+A full-stack application for finding doctors, choosing an available time and managing an authenticated appointment.
 
-> HealthAssist is an educational, non-clinical project. It does not provide medical diagnosis or replace professional healthcare.
+`Next.js` `React` `Kinde` `Strapi` `PostgreSQL` `Tailwind CSS`
+**[Open the live demo](https://doctor-appointment-booking-web-nextjs-two.vercel.app/)** · [Case study](https://balbir.dev/work/doctor-appointment) · [Source code](https://github.com/singhtechie24/Doctor-Appointment-Booking-Web-Nextjs)
 
----
-
-### BookMySpot — Parking Reservation Platform
-
-A digital platform designed to simplify finding, reserving, and paying for available parking spaces.
-
-- User authentication
-- Parking-space browsing
-- Availability and reservation workflows
-- Firestore data storage
-- Stripe payment integration
-- Separate user and administrator functionality
-
-**Technologies:** Next.js, Firebase, Stripe  
-**Repository:** [View BookMySpot on GitHub](https://github.com/singhtechie24/BookMySpot-Final)
+### More work
+- **[BookMySpot](https://github.com/singhtechie24/BookMySpot-Final):** a parking reservation platform with Stripe payments and separate user and admin flows (Next.js, Firebase, Stripe). Its case study is in progress.
 
 ---
 
-### EchoFlow — AI Voice Application Experiment
+## 🧰 Toolkit
 
-An experimental project created to explore speech-to-text workflows and the capabilities and limitations of AI-assisted software development.
-
-- Voice-focused interaction prototype
-- Speech-to-text exploration
-- Compatibility and deployment testing
-- Iterative development using Claude and Google Antigravity
-
-**Status:** Prototype requiring further development  
-**Live application:** [Open EchoFlow](https://echo-f-low.vercel.app/)
+`JavaScript` `TypeScript` `React` `Next.js` `Node.js` `SQL` `Firebase` `Tailwind CSS` `GSAP` `Framer Motion` `Figma` `Rust` `Tauri`
 
 ---
 
-## 🌱 Currently Learning
+## 🤝 Let's talk
 
-- Deeper JavaScript fundamentals
-- React component design and state management
-- Git and GitHub workflows
-- API integration and asynchronous JavaScript
-- Testing and debugging practices
-- Data structures and software interview fundamentals
+I'm actively looking for Graduate or Junior Software Engineering roles. If your team needs someone who understands database transactions but will also lose sleep over an unaligned pixel, we should talk.
 
----
-
-## 🤝 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/balbir-singh-cse24/)
-- [GitHub](https://github.com/singhtechie24)
-- Email: `singh.techie24@gmail.com`
-
----
-
-⭐ I am interested in collaborating on practical web products and learning from other developers.
+**[balbir.dev](https://balbir.dev)** · [LinkedIn](https://www.linkedin.com/in/balbir-singh-cse24/) · [singh.techie24@gmail.com](mailto:singh.techie24@gmail.com)
