@@ -23,17 +23,22 @@ Building useful software with a little personality. I turn everyday problems int
 
 ## 🧰 Tech stack
 
+**Confident with**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind&perline=7" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind CSS" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,firebase,cloudflare&perline=7" alt="Node.js, PostgreSQL, Firebase, Cloudflare Workers" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode&perline=7" alt="Git, GitHub, GitHub Actions, Vercel, VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&perline=7" alt="HTML, CSS, JavaScript, Git, GitHub, VS Code" />
 </p>
 
-Also: `SQL` · `REST APIs` · `Next.js API Routes` · `Strapi` · `OpenAI API` · `Firestore` · `Render`
+**Built and shipped projects with** (AI-assisted, and still deepening)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs&perline=7" alt="TypeScript, React, Next.js, Tailwind CSS, Node.js" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,postgres,cloudflare,vercel,githubactions&perline=7" alt="Firebase, PostgreSQL, Cloudflare Workers, Vercel, GitHub Actions" />
+</p>
+
+Also used in my projects: `SQL` · `REST APIs` · `Strapi` · `OpenAI API` · `Playwright` · `Vitest`
 
 ---
 
