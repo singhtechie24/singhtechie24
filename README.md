@@ -61,8 +61,8 @@ Hold a key, speak, release, and your words appear wherever you're typing.
 
 - Speech recognition runs on your PC, no cloud needed
 - Optional local AI clean-up of what you said
-- 11.2 MB installer after removing unused CUDA files
-- Signed auto-updates, plus a product website with 308 Playwright tests
+- 11.1 MB installer after removing unused CUDA files
+- Signed auto-updates, plus a product website with 312 Playwright tests
 
 `Tauri` `Rust` `React` `TypeScript` `Next.js`
 
